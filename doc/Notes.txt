@@ -1,0 +1,59 @@
+master HR
+=========
+division
+departemen
+line
+employee
+
+master KPI
+===========
+kpitype     = main kpi, sub kpi, proses kpi
+kpisubtype1 =  safety, quality, productivity, cost
+kpisubtype2 =  persiapan saja
+kpiassesment contoh:
+- accident dan incident
+- claim importir
+- efisiensi line
+
+rincian KPI
+==========
+kpi_period
+kpi_date
+division_id
+departemen_id
+line_id
+employee_id
+
+kpitype_id
+kpisubtype1_id
+kpisubtype2_id
+kpiassesmen_id
+kpi_value
+
+
+rekap KPI
+=========
+kpi_period = tahun (contoh: 2023 - 2024)
+division_id
+departemen_id
+line_id
+employee_id
+
+kpitype_id
+kpisubtype1_id
+kpisubtype2_id
+kpiassesmen_id
+
+kpi_value1
+kpi_value2
+kpi_value3
+kpi_value4
+kpi_value5
+kpi_value6
+kpi_value7
+kpi_value8
+kpi_value9
+kpi_value10
+kpi_value11
+kpi_value12
+
